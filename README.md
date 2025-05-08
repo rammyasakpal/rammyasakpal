@@ -4,7 +4,7 @@
 
 🔐 I’ve deployed threat monitoring systems on Azure, simulated BGP networks in Docker, and engineered network tools in Go.
 
-🧰 Tech Stack: Azure, Docker, Linux, Bash, Python, Go, FRRouting, Log Analytics, NGINX, tcpdump, MySQL
+🧰 Tech Stack: Azure, Docker, Linux, Bash, Python, Go, FRRouting, Log Analytics, NGINX, MySQL, Wireshark, Nmap
 
 🚀 Open to opportunities in:
 - Infrastructure Security
