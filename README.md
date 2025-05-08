@@ -10,5 +10,6 @@
 - Infrastructure Security
 - Cloud Networking
 - Product Security / Detection Engineering
+- SOC
 
 📫 Reach me at: rammya.r.sakpal@gmail.com
