@@ -7,7 +7,7 @@
 🧰 Tech Stack: Azure, Docker, Linux, Bash, Python, Go, FRRouting, Log Analytics, NGINX, MySQL, Wireshark, Nmap
 
 🚀 Open to opportunities in:
--Research in Security - AI- ML
+- Research in Security - AI- ML
 - Infrastructure Security
 - Cloud Networking
 - Product Security / Detection Engineering
